@@ -2,7 +2,7 @@
 <h3 align="center">A Lazy Unity Modder</h3>
 
 - 🌱 I’m currently learning **Modding, Reverse Engineering**
-- - ⚡ Fun fact **I know sanskrit**
+- ⚡ Fun fact **I know sanskrit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
